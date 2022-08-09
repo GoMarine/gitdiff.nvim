@@ -4,7 +4,7 @@ local conf = require("telescope.config").values
 
 local M = {}
 function M.diff_with_master()
-  local cmd="!git diff --name-only $(git merge-base HEAD master)"
+  local cmd=":!git diff --name-only $(git merge-base HEAD master)"
   local files=vim.api.nvim_command_output(cmd)
   local results= {}
   local opts = opts or {}
