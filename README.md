@@ -1,13 +1,13 @@
 # gitdiff.nvim
 <p align="center">
-  <a href="https://github.com/milennik/gitdif.nvim/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/milennik/gitdif.nvim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
-  <a href="https://github.com/milennik/gitdif.nvim/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/milennik/gitdif.nvim?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41"></a>
-  <a href="https://github.com/milennik/gitdif.nvim">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/milennik/gitdif.nvim?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41"/></a>
-  <a href="https://github.com/milennik/gitdif.nvim">
-    <img alt="License" src="https://img.shields.io/github/license/milennik/gitdif.nvim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/></a>
+  <a href="https://github.com/milennik/gitdiff.nvim/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/milennik/gitdiff.nvim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+  <a href="https://github.com/milennik/gitdiff.nvim/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/milennik/gitdiff.nvim?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41"></a>
+  <a href="https://github.com/milennik/gitdiff.nvim">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/milennik/gitdiff.nvim?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41"/></a>
+  <a href="https://github.com/milennik/gitdiff.nvim">
+    <img alt="License" src="https://img.shields.io/github/license/milennik/gitdiff.nvim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/></a>
 </p>
 
 ## Compare HEAD with any branch. Easily find changed files and do `git diff`.
