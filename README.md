@@ -37,6 +37,9 @@ This key map can be used to compare HEAD with a default reference branch:
 
     `map('n', '<C-p>', ":Gvdiffsplit master<cr>")`
 
+- Swap windows:
+    `C+w, x`
+
 ### FAQ
 
 ### License
